@@ -1,1 +1,97 @@
-
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+  <meta charset="GMT-3">
+  <meta name="keywords" content="desenvolvimento web, profile, coderhouse, desafio complementar">
+  <!--Entrega do Desafio Complementar da Aula 6 HTML Semântico do curso de Desenvolvimento Web da Coderhouse-->
+  <title>(Coderhouse) Aula 6 - Desafio Complementar</title>
+</head>
+<main>
+<header>
+  <p><h1>Luana Furtado</h1></p>
+  <p>MBA em Design Estratégico (ESPM), 40 anos, carioca, escorpiana</p>
+</header>
+<section>
+  <p>
+  O tradicional brownie de chocolate é uma preferência nacional, mas existem variações desse doce para agradar a todo mundo, desde o brownie de nescau até o brownie fit que leva cacau, o brownie low carb e o brownie vegano. Outra coisa que pode variar é a forma de fazer: quer aprender como fazer brownie fácil que fica pronto em minutos? O brownie de caneca no microondas vai resolver a sua vida.
+  <br>
+  Receita tradicional do café da manhã americano, a receita de brownie simples ficou famosa no mundo todo. Ele é mais fácil de fazer do que um bolo tradicional, mas tão gostoso quanto. A receita de brownie de chocolate já se tornou bem comum no Brasil, mas você sabia que é possível prepará-lo com outros sabores? O TudoGostoso montou uma lista com 6 receitas de brownie diferentes para você se aventurar.
+  <br>
+  O brownie é um dos doces favoritos das pessoas que adoram bolos molhadinhos. Afinal, como resistir à sua massa única, com uma textura cremosinha e deliciosa? Pois é, o melhor de tudo é que o brownie é tão maravilhoso que ele consegue agradar até quem está dentro de uma dieta. Veja como fazer um brownie sem farinha!
+  <br>
+  Quer sair do comum e surpreender ainda mais com esse doce maravilhoso? O TudoGostoso já te ensinou como fazer um brownie de chocolate branco, mas resolvemos ir mais além e mostrar que o chocolate não é o limite para esse doce! Por isso, que tal ousar no brownie?  Confira 3 receitas com sabores de brownie diferentes que separamos pra você. Vai ser sucesso!
+  <br>
+  <strong>Modo de preparo:</strong> 30min
+  <br>
+  Ingredientes
+  <br>
+  <ul>5 colheres de manteiga</ul>
+  <ul>3 ovos</ul>
+  <ul>3 xicaras de achocolatado</ul>
+  <ul>6 colheres de açúcar</ul>
+  <ul>12 colheres de farinha de trigo</ul>
+  <br>
+  Modo de Preparo
+  <br>
+  <ol>Derreta a manteiga e reserve</ol>
+  <ol>Enquanto derrete a manteiga, misture os 3 ovos e a açúcar e misture bem</ol>
+  <ol>Acrescente a manteiga derretida no ovo e o açúcar</ol>
+  <ol>Agora é so misturar o achocolatado e o trigo</ol>
+  <ol>Unte uma forma com manteiga e achocolatado</ol>
+  <ol>Leve ao forno a 180° C por 30 minutos</ol>
+  Dicas para um brownie perfeito
+  <br>
+  <li>As pitadas de sal servem para realçar o sabor do chocolate: não deixe de usá-las!</li>
+  <li>Misture a farinha delicadamente para que a massa não fique pesada.</li>
+  <li>Usar a forma de metal faz com que o brownie fique pronto mais rapidamente. Se utilizá-la, fique de olho no tempo de forno.</li>
+  <li>Adicione castanha e nozes a gosto na massa para um sabor ainda mais marcante!</li>
+</p>
+</section>
+<section>
+  <p>
+    <table border>
+      <tr><!--Início da linha do cabeçalho-->
+        <th><strong>Produto</strong></th>
+        <th><strong>Preço Unitário</strong></th>
+        <th><strong>Quantidade em Estoque</strong></th>
+      </tr><!--Fim da linha do cabeçalho-->
+      <tr><!--Início da primeira linha-->
+        <td>HD Sata 80 Gb</td>
+        <td>R$85,00</td>
+        <td>35</td>
+      </tr><!--Fim da primeira linha-->
+      <tr><!--Início da segunda linha-->
+        <td>Pen Drive 2 Gb</td>
+        <td>R$15,00</td>
+        <td>150</td>
+      </tr><!--Fim da segunda linha-->
+      <tr><!--Início da terceira linha-->
+        <td>Impressora Laser Colorida</td>
+        <td>R$613,99</td>
+        <td>18</td>
+      </tr><!--Fim da terceira linha-->
+      <tr><!--Início da quarta linha-->
+        <td>Monitor LCD 17'</td>
+        <td>R$309,00</td>
+        <td>41</td>
+      </tr><!--Fim da quarta linha-->
+    </table>
+  </p>
+</section>
+<section>
+  <h3>Artigos</h3>
+  <br>
+  <article>
+    <h2>Double Diamond Is Not How Most Companies Work</h2>
+    <img src="https://res.cloudinary.com/indysigner/image/fetch/c_fill/f_auto,q_auto/https://main--smart-interface-design-patterns.netlify.app/static/img/blog/double-diamond-process/triple-diamond-process.png" alt="Triple Diamond" />
+    <p>The “Double Diamond” process rarely works well in real projects. Here’s how the design work actually gets done in small and large organizations, and where design has most leverage.</p>
+    <a href="https://smart-interface-design-patterns.com/articles/double-diamond-process/">Leia Mais</a>
+  </article>
+</section>
+<footer>
+  <p>Luana Furtado</p>
+  <p>Email: lufucadesign@gmail.com</p>
+  <p>Cel: 55 21 9 9504-5457</p>
+</footer>
+</main>
+</html>
